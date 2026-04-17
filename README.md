@@ -5,12 +5,12 @@
   <img src="https://img.shields.io/badge/Location-Burbank,%20CA-orange?style=for-the-badge" />
 </p>
 
-### 🛠️ The Mission
-[cite_start]I am a **Senior Software Engineer** [cite: 4] focused on building secure, scalable, and event-driven systems. [cite_start]With over a decade of experience [cite: 10][cite_start], I bridge the gap between robust **Java/Spring Boot backends** [cite: 5] [cite_start]and cutting-edge **Angular 20 frontends**[cite: 27].
+### 👋 About Me
+[cite_start]I am a **Senior Software Engineer** with over **11 years of experience** designing and building secure, scalable, and event-driven enterprise applications[cite: 4]. [cite_start]I specialize in **Microservices architecture** using **Java/Spring Boot** and modernizing frontends with **Angular 20 and Signals**[cite: 5, 27].
 
-* [cite_start]🏗️ **Architecture:** Expert in Microservices, Kafka Event Streaming, and Cloud-Native design[cite: 5, 6, 11].
-* [cite_start]⚡ **Performance:** Consistently achieved 30–40% latency reduction and 40% faster release cycles[cite: 8].
-* [cite_start]🔒 **Security:** Deep expertise in OAuth 2.0, JWT, and Keycloak for enterprise-grade protection[cite: 6, 12].
+* [cite_start]🏗️ **Core Expertise:** Kafka Event Streaming [cite: 6, 58][cite_start], AWS/Azure Cloud Native Design [cite: 5, 16][cite_start], and OAuth 2.0/JWT Security[cite: 6, 12, 48].
+* [cite_start]⚡ **Impact:** Consistently delivered 30–40% latency reductions and accelerated release cycles by 40%[cite: 8, 20].
+* [cite_start]🛠️ **Modernization:** Recently led an upgrade to **Angular 20** using **Spartan ng** and **Elf state management**[cite: 27, 42].
 
 ---
 
@@ -37,18 +37,17 @@
 
 ### 📊 GitHub Power Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramesh-yara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh-yara&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rummy43&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rummy43&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 📫 Let's Build Something Together
+I prefer connecting on LinkedIn for professional inquiries to keep my workflow organized.
+
 <p align="left">
 <a href="https://www.linkedin.com/in/ramesh-yara/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:yara.ramesh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </p>
