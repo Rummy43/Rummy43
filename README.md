@@ -121,7 +121,7 @@ I write about real failure modes — not idealized architectures. Most articles 
 | 📄 **The Outbox Pattern Is Not Enough** · *Published — Medium* | The 4 ev/s config-line ceiling, 720-row burst suppression, and why your SLOs need to know the difference. |
 | 📄 **Three Ways Your Alerts Go Blind** · *Submitted — DZone* | The decay / vanish / unqueried-terminal blind-spot taxonomy with live injection evidence. |
 
-10+ articles published across **Medium**, **Dev.to**, and **DZone** (1,500+ views) — covering event-driven architecture, distributed tracing, Kubernetes observability, GitOps patterns, and chaos engineering.
+10+ articles published across **Medium**, **Dev.to**, and **DZone** (2,000+ views) — covering event-driven architecture, distributed tracing, Kubernetes observability, GitOps patterns, and chaos engineering.
 
 More on [Medium](https://medium.com/@yara.ramesh) · [Dev.to](https://dev.to/ramesh-yara)
 
