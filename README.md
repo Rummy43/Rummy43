@@ -148,4 +148,7 @@ More on [Medium](https://medium.com/@yara.ramesh) · [Dev.to](https://dev.to/ram
 <a href="https://dev.to/ramesh-yara" target="_blank">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
 </a>
+<a href="https://sessionize.com/ramesh-yara/" target="_blank">
+  <img src="https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=white" alt="Sessionize">
+</a>
 </p>
